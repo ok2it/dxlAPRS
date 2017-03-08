@@ -6,8 +6,8 @@ build on some native ARM machine (like raspbian on rpi)
 ================================================================================
 install following packages:
 - build-essential  (sudo apt-get install build-essential)
-- libX11-dev       (sudo apt-get install libX11-dev)
-- libXext-dev      (sudo apt-get install libXext-dev)
+- libX11-dev       (sudo apt-get install libx11-dev)
+- libXext-dev      (sudo apt-get install libxext-dev)
 - libpng-dev       (sudo apt-get install libpng-dev)
 - libjpeg-dev      (sudo apt-get install libjpeg-dev)
 
@@ -18,8 +18,8 @@ build for X86 with i686 (64-bit) host system
 install following packages:
 - build-essential  (sudo apt-get install build-essential)
 - libc-i386        (sudo apt-get install libc6-dev-i386)
-- libX11-dev       (sudo apt-get install libX11-dev:i386)
-- libXext-dev      (sudo apt-get install libXext-dev:i386)
+- libX11-dev       (sudo apt-get install libx11-dev:i386)
+- libXext-dev      (sudo apt-get install libxext-dev:i386)
 - libpng-dev	   (sudo apt-get install libpng-dev:i386)
 - zlib1g-dev       (sudo apt-get install zlib1g-dev:i386)
 
