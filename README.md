@@ -1,4 +1,8 @@
-dxlAPRS is Free Software toolchain to operate APRS(r). The toolchain contains:
+Tato verze je otestovana na architekture armel a armhf pro verzi jak armv6 tak armv7l
+Funguje jak na RPi 1,2,3 tak na Bananech Pomerancich a jinem ovoci.
+
+
+''dxlAPRS is Free Software toolchain to operate APRS(r). The toolchain contains:
 - afskmodem	soundmodem for 300-19200bd afsk/fsk modulation, 2 channels
 - aprsmap	powerful aprs-viewer using open street map
 - gps2aprs	aprs-tracker using connected gps-mouse
